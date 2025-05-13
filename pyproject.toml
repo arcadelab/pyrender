@@ -30,7 +30,7 @@ dependencies = [
     "numpy",
     "Pillow",
     "pyglet>=1.4.10",
-    "PyOpenGL~=3.1.0",
+    "PyOpenGL~=3.1.6",
     "scipy",
     "six",
     "trimesh"
